@@ -12,6 +12,9 @@ This node program helps people to create an svg logo to use on any project they 
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Location
+https://github.com/MicahDeaton/logo-generator
+
 ## Installation
 To install, simply clone down the repository and  open the index.js in your terminal.
 
